@@ -48,3 +48,6 @@ Future Enhancements
     Implement search functionality for meals.
 
     Add favorite meals feature with Room Database.
+
+![1](https://github.com/user-attachments/assets/d65532c9-865d-47f3-9c4f-dd4acf410102)
+![2](https://github.com/user-attachments/assets/d694d88a-a635-4e64-bdaf-cc6ed3547e37)
